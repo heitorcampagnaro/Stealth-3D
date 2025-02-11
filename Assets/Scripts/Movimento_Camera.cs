@@ -13,7 +13,6 @@ public class Movimento_Camera : MonoBehaviour
     //Distancia da câmera ao player
     [SerializeField] private float distancia_cameraZ;
 
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
 
